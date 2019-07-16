@@ -1,0 +1,20 @@
+<resources>
+    <!--Common-->
+    <string name="app_name">Мессенджер</string>
+
+    <!--Message Types-->
+    <string name="message_user_added">%s присоединился к чату</string>
+    <string name="message_user_removed">%s вышел из чата</string>
+
+    <!--Errors-->
+    <string name="error_empty_fields">Не все поля заполнены!</string>
+    <string name="error_wrong_ip_format">Неверный формат ip адреса!</string>
+    <string name="error_wrong_port_number">Недопустимый номер порта!</string>
+    <string name="error_connection">Ошибка соединения!</string>
+
+    <!--Login Activity-->
+    <string name="hint_ip_example">192.168.0.5</string>
+    <string name="hint_port_example">4040</string>
+    <string name="hint_name_example">Иван</string>
+    <string name="button_connect">Подключиться</string>
+</resources>
